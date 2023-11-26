@@ -13165,7 +13165,7 @@ MonoBehaviour:
     m_Bits: 4294967295
   m_InteractionLayers:
     m_Bits: 4294967295
-  m_AttachTransform: {fileID: 945002361}
+  m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_DisableVisualsWhenBlockedInGroup: 1
   m_StartingSelectedInteractable: {fileID: 0}
@@ -13423,7 +13423,7 @@ MonoBehaviour:
   m_LineBendRatio: 0.5
   m_OverrideInteractorLineOrigin: 1
   m_LineOriginTransform: {fileID: 0}
-  m_LineOriginOffset: 0.4
+  m_LineOriginOffset: 0
 --- !u!120 &1839667202
 LineRenderer:
   serializedVersion: 2
